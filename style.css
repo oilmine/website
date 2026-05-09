@@ -1,14 +1,10 @@
+html, body {height: 100%}
 body {
-    background-color: rgb(23, 23, 23);
+    background-image: linear-gradient(to bottom, rgb(23, 23, 23), rgb(32, 32, 32));
     color: white;
     font-family: "UD Digi Kyokasho NK-R";
     font-size: x-large;
 }
 
-pt {
-    font-size: xx-large
-}
-
-a {
-    color: grey
-}
+pt {font-size: xx-large}
+a {color: grey}
