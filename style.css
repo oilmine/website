@@ -1,9 +1,14 @@
 body {
-    background-color: rgb(13, 13, 13);
+    background-color: rgb(23, 23, 23);
     color: white;
+    font-family: "UD Digi Kyokasho NK-R";
+    font-size: x-large;
 }
 
-p {
-    font-size: x-large;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+pt {
+    font-size: xx-large
+}
+
+a {
+    color: grey
 }
