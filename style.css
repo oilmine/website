@@ -7,5 +7,6 @@ body {
 }
 
 pt {font-size: xx-large}
-a {color: grey}
+a {color: grey; text-decoration: none;}
+a:hover {color: #d1d1d1;}
 .space {margin-left: 25px}
