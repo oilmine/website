@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "UD Digi Kyokasho NK-R";
+    src: url("UDDigiKyokashoNK-R-03.ttf") format("truetype");
+}
+
 html, body {height: 100%}
 body {
     background-image: linear-gradient(to bottom, rgb(23, 23, 23), rgb(32, 32, 32));
