@@ -9,6 +9,7 @@ body {
     color: white;
     font-family: "UD Digi Kyokasho NK-R";
     font-size: x-large;
+    overflow: hidden;
 }
 
 pt {font-size: xx-large}
